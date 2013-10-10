@@ -1,6 +1,6 @@
 # Bootstrap-Store
 
-By [Phil worthington](github.com/philworthington).
+By [Phil Worthington](github.com/philworthington).
 
 
 
